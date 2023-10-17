@@ -23,6 +23,6 @@
 
 ### Let's connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-fathirarya-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliadania/)](https://www.linkedin.com/in/eliadania/)
-[![Instragram Badge](https://img.shields.io/badge/-fathirarya_12-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/eledans/)](https://www.instagram.com/eledans/)
-[![Gmail Badge](https://img.shields.io/badge/-fathirarya2002@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eliadanias@gmail.com)](mailto:eliadanias@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-eliadania-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliadania/)](https://www.linkedin.com/in/eliadania/)
+[![Instragram Badge](https://img.shields.io/badge/-eledans-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/eledans/)](https://www.instagram.com/eledans/)
+[![Gmail Badge](https://img.shields.io/badge/-eliadanias@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eliadanias@gmail.com)](mailto:eliadanias@gmail.com) 
