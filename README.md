@@ -17,9 +17,9 @@
 </p>
 
 ### Stats:
-<p align=left> <img src=https://komarev.com/ghpvc/?username=eledans alt=eledans /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=eliadania alt=eliadania /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eledans&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliadania&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 ### Let's connect!
 
