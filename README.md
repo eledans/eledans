@@ -5,7 +5,7 @@
 -->
 
 - 📚 I 'm a **7th semester** student majoring in **Informatics** at **Gunadarma University**
-- 🔭 I’m currently working on **Informatics Laborartory at Gunadarma Univerity**
+- 🔭 I’m currently working on **Informatics Laborartory at Gunadarma Univerity** and I'm also doing an internship at **PT. Epsindo Prima Solusi**
 - 🌱 I'm currently learning about **data analysis**
 - 📫 How to reach me: **eliadanias@gmail.com**
 - ⚡ Fun fact: **I love working out and walking**
