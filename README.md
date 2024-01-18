@@ -5,8 +5,8 @@
 -->
 
 - 📚 I 'm a **7th semester** student majoring in **Informatics** at **Gunadarma University**
-- 🔭 I’m currently working on **Informatics Laborartory at Gunadarma Univerity** and I'm also doing an internship at **PT. Epsindo Prima Solusi**
-- 🌱 I'm currently learning about **data analysis**
+- 🔭 I’m currently working on **Informatics Laboratory at Gunadarma Univerity** and I'm also doing an internship at **PT. Epsindo Prima Solusi**
+- 🌱 I'm currently learning about **Data Science**
 - 📫 How to reach me: **eliadanias@gmail.com**
 - ⚡ Fun fact: **I love working out and walking**
 
@@ -16,12 +16,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliadania&show_icons=true&theme=onedark&locale=en" alt="eliadania" /></p>
-
-### Let's connect!
-
-[![Linkedin Badge](https://img.shields.io/badge/-eliadania-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliadania/)](https://www.linkedin.com/in/eliadania/)
-[![Instragram Badge](https://img.shields.io/badge/-eledans-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/eledans/)](https://www.instagram.com/eledans/)
-[![Gmail Badge](https://img.shields.io/badge/-eliadanias@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eliadanias@gmail.com)](mailto:eliadanias@gmail.com) 
 
 ### Tools:
 <p>
@@ -44,5 +38,12 @@
     <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
 </p>
+
+### Let's connect!
+
+[![Linkedin Badge](https://img.shields.io/badge/-eliadania-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliadania/)](https://www.linkedin.com/in/eliadania/)
+[![Instragram Badge](https://img.shields.io/badge/-eledans-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/eledans/)](https://www.instagram.com/eledans/)
+[![Gmail Badge](https://img.shields.io/badge/-eliadanias@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eliadanias@gmail.com)](mailto:eliadanias@gmail.com) 
+
 
 
